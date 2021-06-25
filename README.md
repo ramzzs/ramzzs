@@ -25,6 +25,7 @@ Hey, my name is Ramsses! Thanks for checking out my profile, hope you find what 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzzs&theme=gruvbox)
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Ramzzs&theme=gruvbox)
+
 ##Workspace
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=ramzzs&repo=dotfiles&theme=gruvbox)](https://github.com/ramzzs/dotfiles)
 
