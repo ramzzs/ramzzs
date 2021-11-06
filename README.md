@@ -26,6 +26,4 @@ Hey, my name is Ramsses! Thanks for checking out my profile, hope you find what 
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Ramzzs&theme=gruvbox)
 
-[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=ramzzs&repo=dotfiles&theme=gruvbox)](https://github.com/ramzzs/dotfiles)
-
 
